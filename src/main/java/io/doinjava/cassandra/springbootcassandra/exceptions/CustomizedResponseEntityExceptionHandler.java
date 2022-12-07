@@ -1,4 +1,4 @@
-package io.javasetup.cassandra.springbootcassandra.exceptions;
+package io.doinjava.cassandra.springbootcassandra.exceptions;
 
 import java.util.Date;
 

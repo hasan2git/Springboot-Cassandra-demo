@@ -1,4 +1,4 @@
-package io.javasetup.cassandra.springbootcassandra.entities;
+package io.doinjava.cassandra.springbootcassandra.entities;
 
 import org.springframework.data.cassandra.core.mapping.PrimaryKey;
 import org.springframework.data.cassandra.core.mapping.Table;

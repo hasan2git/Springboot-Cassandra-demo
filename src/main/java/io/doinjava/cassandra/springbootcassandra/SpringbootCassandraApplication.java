@@ -1,4 +1,4 @@
-package io.javasetup.cassandra.springbootcassandra;
+package io.doinjava.cassandra.springbootcassandra;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

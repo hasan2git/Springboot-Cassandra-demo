@@ -1,4 +1,4 @@
-package io.javasetup.cassandra.springbootcassandra.exceptions;
+package io.doinjava.cassandra.springbootcassandra.exceptions;
 
 public class UserNotFoundException extends RuntimeException {
 

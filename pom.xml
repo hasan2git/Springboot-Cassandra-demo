@@ -8,7 +8,7 @@
 		<version>2.7.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>io.javasetup.cassandra</groupId>
+	<groupId>io.doinjava.cassandra</groupId>
 	<artifactId>springboot-cassandra</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-cassandra</name>
