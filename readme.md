@@ -1,7 +1,8 @@
 # Springboot-Cassandra-demo
-This is demo application to connect cassandra using spring-boot-starter-data-cassandra.
-We have shared example of CRUD functionality here. We have used cassandra docker image from dockerhub to run cassandra db.
-
+This is demo application to connect cassandra from springboot application.
+We have used cassandra docker image from dockerhub to run cassandra db.
+This example contains the CRUD functionality.
+ 
 ## REST API Details
 Create new user
 <br>POST - /cassandrademo/users
